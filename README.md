@@ -265,6 +265,15 @@ feed:
   disable_in_development: true
 ```
 
+## Hub
+
+To set a Hub in your feed, simply define set the following in your config:
+
+```yml
+feed:
+  hub: https://your-hub-here.com
+```
+
 ## Contributing
 
 1. Fork it (https://github.com/jekyll/jekyll-feed/fork)
